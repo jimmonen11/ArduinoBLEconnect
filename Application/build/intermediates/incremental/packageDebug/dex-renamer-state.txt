@@ -1,0 +1,7 @@
+#Fri Apr 21 10:49:12 MDT 2017
+base.0=C\:\\Users\\HP1\\Dropbox\\Android\\ArduinoBLEconnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c88e45cfd4f16769d6b363b08b9aba011f4aa87
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\HP1\\Dropbox\\Android\\ArduinoBLEconnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c9a54d04ca92403df01b79c3200bf0d4675fa3a6\\classes.dex
+base.1=C\:\\Users\\HP1\\Dropbox\\Android\\ArduinoBLEconnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c9a54d04ca92403df01b79c3200bf0d4675fa3a6
+file.0=C\:\\Users\\HP1\\Dropbox\\Android\\ArduinoBLEconnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c88e45cfd4f16769d6b363b08b9aba011f4aa87\\classes.dex

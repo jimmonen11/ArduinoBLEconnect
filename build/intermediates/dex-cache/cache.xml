@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_91e8abd3454bb7f8c506411233214f3e18ac2963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_b050e051ebc41e25dbb6f09ff8835d1c4122b2e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2a09df552a739a4102b3ec1769586ce8449a5e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cbd81bb7cf6fee67a8439fed5ba7cc2553306c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3498498946ebead3b3023f17ba5b38b6d49ac2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_4bb44f17ac8798b0278f67f255682e3cc5a1f96b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99e40a4ee7eb00a8d2ff5721c598201311e33d4a">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c9a54d04ca92403df01b79c3200bf0d4675fa3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_8b2c2bc98e7f13d02813725df7456769e81aac3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="778777c0b905fc2528a4e4209a8546aed527ccce">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c88e45cfd4f16769d6b363b08b9aba011f4aa87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_a043962a0e0548b4465bd4dddccf8336e6934fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_069bd4f4f3a2ae83266dffd38d869254add2a91c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d310206492be880831fa2235171b0051bb73c1ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_9d242194e6122aa107b638addf7f6f60ea53234c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_defde77d11d7aa70083ca533fc1210368d6f346e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_05ef4159020a40821764123757b53019ded3d4c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_5b6594e634dfb1d75dcac038f8b8b0fadce47139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_a0797dbfe0e41399086e1f226a792ee2a18d66c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_cd015ea670879d9a6f47d852ec00fb2a631c3485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_f46d3e59f77ce8ddecf58e9267f4d7c59521eaaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\HP1\Dropbox\Android\ArduinoBLEconnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3bab2e8409cc783fc787b03c361bf3a40c3333cd\classes.dex" />
+    </item>
+
+</items>
